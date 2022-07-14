@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "title": "искусство",
+      "type": "",
+      "price": 0,
+      "description": "30 июня 2022 года студенты 1 курса ИКТ-1-21 и 2 курса ДО-1-20 принимали участие на выставке проводимой КГТИ международного форума “Космические технологии-новые горизонты для девочек” в рамках проекта UNI SAT. Были выставлены рисунки по теме «Космос». Участники выставки:",
+      "img": "https://kstu.kg/fileadmin/user_upload/whatsapp_image_2022-07-04_at_11.29.44.jpeg",
+      "id": 28
+    },
+    {
+      "title": "hkjl;lkj",
+      "type": "",
+      "price": 0,
+      "description": "fdgfhgjhkjlk;l",
+      "img": "https://www.isolatedtraveller.com/wp-content/uploads/2021/05/What-is-the-capital-city-of-France-1.png",
+      "img2": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
+      "id": 30
+    },
+    {
+      "title": "dffghjkl;",
+      "type": "",
+      "price": 0,
+      "description": "dfghkjlk;l';",
+      "img": "dfghjkll",
+      "img2": "ddfghjkl",
+      "id": 31
+    }
+  ]
+}
